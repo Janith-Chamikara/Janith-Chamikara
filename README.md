@@ -4,6 +4,10 @@ Hi 👋 My name is Janith Chamikara
 Web Developer
 -------------
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 👨‍💻 Self-taught Web Developer | 🎓 Engineering Undergraduate at UOR | 🌐 Passionate about Coding & Creating
 
 * 🌍  I'm based in Sri Lanka
