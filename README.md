@@ -7,7 +7,7 @@ Hi 👋 My name is Janith Chamikara
 
 Web Developer
 -------------
-👨‍💻 Self-taught Web Developer | 🎓 Engineering Undergraduate at UOR | 🌐 Passionate about Coding & Creating
+🎓 Engineering Undergraduate at UOR | 🌐 Passionate about Coding & Creating
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [janithchamikara13@gmail.com](mailto:janithchamikara13@gmail.com)
