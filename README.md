@@ -5,9 +5,9 @@ Hi 👋 My name is Janith Chamikara
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-Web Developer
+Full Stack Developer
 -------------
-🎓 Engineering Undergraduate at UOR | 🌐 Passionate about Coding & Creating
+🎓 Engineering Undergraduate | 🌐 Passionate about Coding & Creating | Opensource
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [janithchamikara13@gmail.com](mailto:janithchamikara13@gmail.com)
